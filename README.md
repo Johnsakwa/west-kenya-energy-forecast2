@@ -33,3 +33,4 @@ python -m src.generate_data    # data/raw/synthetic.csv
 python -m src.train            # models/*.pkl
 python -m src.scenarios        # data/processed/forecast_scenarios.csv
 python -m src.plot             # docs/forecast_scenarios.png"# west-kenya-energy-forecast2" 
+"# west-kenya-energy-forecast2" 
